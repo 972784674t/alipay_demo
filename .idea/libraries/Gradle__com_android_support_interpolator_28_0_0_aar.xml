@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:interpolator:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://D:/Android/sdk/.android/build-cache/d822d07e37b0565efbf82cc5a5b79b87b9d7a52f/output/jars/classes.jar!/" />
+      <root url="file://D:/Android/sdk/.android/build-cache/d822d07e37b0565efbf82cc5a5b79b87b9d7a52f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

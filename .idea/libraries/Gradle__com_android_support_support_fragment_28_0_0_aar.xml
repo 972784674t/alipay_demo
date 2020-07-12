@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-fragment:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/Android/sdk/.android/build-cache/11917f1cf7a4127c860a8b019a1beddd18e0c85a/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/Android/sdk/.android/build-cache/11917f1cf7a4127c860a8b019a1beddd18e0c85a/output/jars/classes.jar!/" />
+      <root url="file://D:/Android/sdk/.android/build-cache/11917f1cf7a4127c860a8b019a1beddd18e0c85a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

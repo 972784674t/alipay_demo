@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :alipaySdk-15.7.6-20200521195109:@aar">
+    <CLASSES>
+      <root url="jar://D:/Android/sdk/.android/build-cache/8d2e3540539b3b9adb4c7841062e1381a27c3221/output/jars/classes.jar!/" />
+      <root url="file://D:/Android/sdk/.android/build-cache/8d2e3540539b3b9adb4c7841062e1381a27c3221/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

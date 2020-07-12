@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:swiperefreshlayout:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/Android/sdk/.android/build-cache/07b90a016f2f983aec15386f11c86e52e75b3b26/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/Android/sdk/.android/build-cache/07b90a016f2f983aec15386f11c86e52e75b3b26/output/jars/classes.jar!/" />
+      <root url="file://D:/Android/sdk/.android/build-cache/07b90a016f2f983aec15386f11c86e52e75b3b26/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

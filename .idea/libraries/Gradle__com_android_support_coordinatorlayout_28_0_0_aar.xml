@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:coordinatorlayout:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/Android/sdk/.android/build-cache/756644e19bd8e6f7e5c8f748c27c9d85756756e4/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/Android/sdk/.android/build-cache/756644e19bd8e6f7e5c8f748c27c9d85756756e4/output/jars/classes.jar!/" />
+      <root url="file://D:/Android/sdk/.android/build-cache/756644e19bd8e6f7e5c8f748c27c9d85756756e4/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
